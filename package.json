@@ -22,9 +22,6 @@
     "url": "https://github.com/ifraixedes/node-hmac-validator/issues"
   },
   "homepage": "https://github.com/ifraixedes/node-hmac-validator#readme",
-  "engines": {
-    "node": "~4.0.0"
-  },
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^1.10.3",
